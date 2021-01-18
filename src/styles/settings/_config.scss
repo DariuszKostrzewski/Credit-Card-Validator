@@ -1,0 +1,47 @@
+// ==========================================================================
+// Global Config
+// ==========================================================================
+
+// Font Stacks
+
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap");
+$font-family--primary: "Lato", sans-serif;
+
+// Font Weights
+
+$font-weight--thin: 100;
+$font-weight--light: 300;
+$font-weight--medium: 400;
+$font-weight--bold: 700;
+$font-weight--ultra-bold: 900;
+
+// Text
+
+$base__font-size: 18px;
+$larger__font-size: 22px;
+$base__header-font-size: 3em;
+$smaller__header-font-size: 28px;
+$base__section-header-font-size: 1.4em;
+$base__smaller-font-size: 0.8em;
+
+// Descriptive Base Colors
+
+$cerulean: #0d3b3f;
+$cerulean-x-light: #63d3df;
+$cerulean-x-dark: #094c53;
+$cerulean-xx-dark: #012e33;
+$police-strobe: #0bb5ff;
+$indigo-dye: #0d4f8b;
+$pear: #d1e231;
+$pear-x-light: #ebf589;
+$pear-xx-light: hsla(68, 84%, 85%, 0.74);
+
+// Color Usage
+
+$primary-bg: $cerulean;
+$secondary-bg: $cerulean-x-dark;
+$tertiary-bg: $cerulean-xx-dark;
+$textarea-bg-color: $cerulean-xx-dark;
+$primary-text: $police-strobe;
+$secondary-text: $pear-x-light;
+$footer-text: $pear-xx-light;

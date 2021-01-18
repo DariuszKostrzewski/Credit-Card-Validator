@@ -1,0 +1,22 @@
+.primary-header {
+  font-size: $base__header-font-size;
+  font-weight: $font-weight--bold;
+  color: $primary-text;
+  text-align: center;
+}
+
+.main-content {
+  font-size: $larger__font-size;
+  font-weight: $font-weight--medium;
+  color: $secondary-text;
+}
+#ccnumber {
+  font-size: $base__font-size;
+  font-weight: $font-weight--medium;
+  color: $secondary-text;
+}
+.footer {
+  font-size: $base__smaller-font-size;
+  font-weight: $font-weight--light;
+  color: $footer-text;
+}
